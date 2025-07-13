@@ -12,6 +12,7 @@ Coming soon...
 
 ## 🎓 Courses
 - Intro to Modern AI – Cisco
+- [_certificate_harunarashidatabiodun-gmail-com_3e40de99-9292-48d7-9c73-c155329d17fd.pdf](https://github.com/user-attachments/files/21205658/_certificate_harunarashidatabiodun-gmail-com_3e40de99-9292-48d7-9c73-c155329d17fd.pdf)
 - AI Governance – AI Safety Fundamentals
 
 ## 🏅 Certificates
