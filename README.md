@@ -1,5 +1,5 @@
 ARTIFICIAL-INTELLIGENCE-
-# 🤖 Rasheedah's AI Journey
+# 🤖 AI Journey
 
 Welcome to my personal AI journey! This space documents:
 - ✅ AI projects
@@ -8,7 +8,7 @@ Welcome to my personal AI journey! This space documents:
 - ✅ Research in AI governance & ethics
 
 ## 📁 Projects
-Coming soon...
+Research https://github.com/user-attachments/files/21205617/AI.GOVERNANCE.PROJECT.1.pdf
 
 ## 🎓 Courses
 - Intro to Modern AI – Cisco
